@@ -1,3 +1,3 @@
 #PYGAME TEMPLATE
 
-A basic python template for developmnt using the pygame library
+A basic python template for development using the pygame library
